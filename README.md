@@ -1,4 +1,4 @@
-#### Basic Image Classification using Tensorflow.
+### Basic Image Classification using Tensorflow.
 
 Learn basic image classification using Convolutioan Neural Network (CNN) method.
 In this case, i am using keras module in python.
